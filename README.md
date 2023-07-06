@@ -1,5 +1,5 @@
 # Bundles
-Standard AssetBundles for the ZombsRoyale.io client. These will be auto-loaded by the standard [patches.](https://github.com/ZRprivateServer/ZRprivateServer)
+Standard AssetBundles for the ZombsRoyale.io client. These will be auto-loaded by the standard patches.
 
 ## Backport
 This bundle contains all cosmetic assets added into the game in versions higher than 4.5.1 (season 37 or newer).
