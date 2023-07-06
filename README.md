@@ -8,4 +8,4 @@ This bundle contains all cosmetic assets added into the game in versions higher 
 This bundle contains almost every official yet unreleased/unused cosmetic asset.
 
 ## Backport + Unreleased
-This bundle is a merge of both the backport and unreleased asset bundles.
+This bundle is a merge of both the backport and unreleased asset bundles. Use this if you require both.
