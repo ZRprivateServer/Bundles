@@ -1,2 +1,2 @@
 # Bundles
-Standard AssetBundles for ZombsRoyale.io
+Standard AssetBundles for the ZombsRoyale.io client
